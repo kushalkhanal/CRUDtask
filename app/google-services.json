@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "4400129212",
+    "firebase_url": "https://a-kotlin-default-rtdb.firebaseio.com",
+    "project_id": "a-kotlin",
+    "storage_bucket": "a-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4400129212:android:040bbd1edc2d9ff1e75cb9",
+        "android_client_info": {
+          "package_name": "com.example.a34a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD28lVBMdF24jHHMc4-Jox_ILgWHRb2gOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4400129212:android:2e18fc6ba8ad2aaee75cb9",
+        "android_client_info": {
+          "package_name": "com.example.a34b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD28lVBMdF24jHHMc4-Jox_ILgWHRb2gOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4400129212:android:a1fc6e8ff706e906e75cb9",
+        "android_client_info": {
+          "package_name": "com.example.crud_34a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD28lVBMdF24jHHMc4-Jox_ILgWHRb2gOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
